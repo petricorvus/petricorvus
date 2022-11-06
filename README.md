@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @petricorvus
 - 👀 I’m interested in ... learning coding
-- 🌱 I’m currently learning ... the basics
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... the basics of coding languages
+- 💞️ I’m looking to collaborate on ... learning
 - 📫 How to reach me ...
 
 <!---
